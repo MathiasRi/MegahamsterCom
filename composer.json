@@ -1,0 +1,16 @@
+{
+    "name": "riedl/megahamster",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Riedl Mathias",
+            "email": "mathias.riedl@htl.rennweg.at"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Riedl\\MegahamsterCom\\": "Classes/"
+        }
+    },
+    "require": {}
+}

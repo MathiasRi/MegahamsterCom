@@ -1,4 +1,4 @@
-<?php
+<?
     namespace dev\megahamster\com\classes\product;
 
     abstract class Product implements productMethods {

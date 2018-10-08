@@ -5,7 +5,8 @@
      * Date: 17.09.2018
      * Time: 13:19
      */
-    namespace dev\megahamster\com;
+    //namespace dev\megahamster\com;
+    namespace Riedl\Megahamstercom;
     use dev\megahamster\com\classes\flat\Flat;
     use dev\megahamster\com\classes\pit\Pit;
     use dev\megahamster\com\classes\room\Room;
